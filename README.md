@@ -89,7 +89,7 @@ Both projects were developed in R version 4.5.2 on Windows. Full session info is
 
 Author
 Sadia Noureen - Muzzamil Hussain - Abdullah Afzal Alvi
-Researcher | Computational Biology & Bioinformatics
+(Researcher Biotechnology) | Computational Biology & Bioinformatics
 
 License
 This repository is for educational and research purposes. Data sourced from NCBI GEO is subject to its respective data use policies.
